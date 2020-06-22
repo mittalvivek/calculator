@@ -1,7 +1,7 @@
 Calculator.js: a node.js Demonstration Project
 ==============================================
-An example node.js project, including tests with mocha, that behaves like
-a pocket calculator.
+An example node.js project, including tests with mocha, that behaves like a pocket calculator.
+
 [![Build Status](https://dev.azure.com/mittalvivek8/test2/_apis/build/status/mittalvivek.calculator?branchName=master)](https://dev.azure.com/mittalvivek8/test2/_build/latest?definitionId=12&branchName=master)
 
 The project contains a simple node.js application that exposes REST APIs
